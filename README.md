@@ -3,6 +3,14 @@
   <strong>Analyze gene lists for pathway enrichment and protein-protein interactions (PPI) with a powerful Streamlit-based bioinformatics tool.</strong>
 </p>
 
+
+<h2 align="center">🎥 Demo Video</h2>
+
+<div align="center">
+  <iframe src="https://drive.google.com/file/d/1xKEgujtiaqwcH4qv3TZTgw3ohpicTXPc/preview" width="720" height="480" allow="autoplay"></iframe>
+</div>
+
+
 <p align="center">
   <img src="https://drive.google.com/uc?id=19K32Xioz0Jq7ducXDyMhMuQfsd2qX2tI" width="80%"/>
 </p>
