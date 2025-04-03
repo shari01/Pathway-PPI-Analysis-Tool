@@ -5,10 +5,9 @@
 
 
 <h2 align="center">🎥 Demo Video</h2>
+## 🎥 Demo Video
 
-<div align="center">
-  <iframe src="https://drive.google.com/file/d/1xKEgujtiaqwcH4qv3TZTgw3ohpicTXPc/preview" width="720" height="480" allow="autoplay"></iframe>
-</div>
+<iframe src="https://drive.google.com/file/d/1xKEgujtiaqwcH4qv3TZTgw3ohpicTXPc/preview" width="720" height="480" allow="autoplay"></iframe>
 
 
 <p align="center">
