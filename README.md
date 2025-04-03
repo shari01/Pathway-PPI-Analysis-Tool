@@ -1,5 +1,3 @@
-# Pathway-PPI-Analysis-Tool
-Streamlit-powered web app for Pathway Enrichment and Protein-Protein Interaction (PPI) Analysis using gene lists. Whether you're analyzing disease biomarkers or visualizing interaction networks, this tool makes complex analysis easy and interactive.
 <h1 align="center">🧬 Pathway & PPI Analysis App</h1>
 <p align="center">
   <strong>Analyze gene lists for pathway enrichment and protein-protein interactions (PPI) with a powerful Streamlit-based bioinformatics tool.</strong>
