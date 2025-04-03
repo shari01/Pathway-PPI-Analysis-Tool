@@ -62,7 +62,7 @@ This interactive app allows researchers and bioinformaticians to:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/pathway-ppi-app.git
+git clone https://github.com/shari01/pathway-ppi-app.git
 cd pathway-ppi-app
 pip install -r requirements.txt
 streamlit run app.py
