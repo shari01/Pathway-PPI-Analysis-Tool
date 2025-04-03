@@ -53,32 +53,6 @@ This interactive app allows researchers and bioinformaticians to:
 - 🔍 **Interactive Graphs**: Explore top 20 nodes using force-directed layouts.
 - 💾 **One-click Downloads**: Export to Excel with separate sheets for each analysis.
 
----
-
-## 🖼️ Screenshots
-
-<h4 align="center">1. Landing Page</h4>
-<img src="https://drive.google.com/uc?id=19K32Xioz0Jq7ducXDyMhMuQfsd2qX2tI" width="100%"/>
-
-<h4 align="center">2. Upload Gene File</h4>
-<img src="https://drive.google.com/uc?id=1CDdpKY3n_0kUmyOaHj3r-dz_LYNGMLn6" width="100%"/>
-
-<h4 align="center">3. Pathway Enrichment Preview</h4>
-<img src="https://drive.google.com/uc?id=1m9P9VOvd7-7rb8da5zL7X7gY10EeIzkk" width="100%"/>
-
-<h4 align="center">4. PPI Node Degree Output</h4>
-<img src="https://drive.google.com/uc?id=1gCSSEUphzPpeHhMrMqaZKPzHRxR4-zOi" width="100%"/>
-
-<h4 align="center">5. Interactive Network Graph</h4>
-<img src="https://drive.google.com/uc?id=1whPSNvTPd4quRmQL5vRt7Jv_p1mF0-sE" width="100%"/>
-
-<h4 align="center">6. Download Buttons</h4>
-<img src="https://drive.google.com/uc?id=1Ok0x0Nez1A2FkHQEKuEpgk_MIbT9icLO" width="100%"/>
-
-<h4 align="center">7. Stylish UI Elements</h4>
-<img src="https://drive.google.com/uc?id=1__VBBRRKPlYeAq8B-rE-WgPIlfgb_Vnc" width="100%"/>
-
----
 
 ## 🧰 Tech Stack
 
