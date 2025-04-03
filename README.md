@@ -3,18 +3,28 @@
   <strong>Analyze gene lists for pathway enrichment and protein-protein interactions (PPI) with a powerful Streamlit-based bioinformatics tool.</strong>
 </p>
 
+
 <h2 align="center">🖼️ Screenshots</h2>
 
 <p align="center">
+  <!-- 1.png -->
   <img src="https://drive.google.com/uc?id=1yQrL2Bb8K4EUiBOG5G39_CXdaZWZSlRR" width="90%" alt="Screenshot 1"/>
   <br/><br/>
-  <img src="https://drive.google.com/uc?id=ID_FOR_2.png" width="90%" alt="Screenshot 2"/>
+
+  <!-- 2.png -->
+  <img src="https://drive.google.com/uc?id=1enlGslPnpvgO5EQ4bwYMXa7yVjtf06TJ" width="90%" alt="Screenshot 2"/>
   <br/><br/>
-  <img src="https://drive.google.com/uc?id=ID_FOR_3.png" width="90%" alt="Screenshot 3"/>
+
+  <!-- 3.png -->
+  <img src="https://drive.google.com/uc?id=1EW_7kszz0bhEHyY9GVQ3ZNGodaLNpzQj" width="90%" alt="Screenshot 3"/>
   <br/><br/>
-  <img src="https://drive.google.com/uc?id=ID_FOR_4.png" width="90%" alt="Screenshot 4"/>
+
+  <!-- 4.png -->
+  <img src="https://drive.google.com/uc?id=1f1EMqgt6mjuqdXJvJ_nweWZXvswNUlwp" width="90%" alt="Screenshot 4"/>
   <br/><br/>
-  <img src="https://drive.google.com/uc?id=ID_FOR_5.png" width="90%" alt="Screenshot 5"/>
+
+  <!-- 5.png -->
+  <img src="https://drive.google.com/uc?id=1JvYEI3LN_gmMF7tU7mZXlGBZ0u_HCBwx" width="90%" alt="Screenshot 5"/>
 </p>
 
 
