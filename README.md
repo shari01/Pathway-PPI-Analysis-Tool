@@ -28,10 +28,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://drive.google.com/uc?id=19K32Xioz0Jq7ducXDyMhMuQfsd2qX2tI" width="80%"/>
-</p>
-
 ---
 
 ## 🚀 Overview
